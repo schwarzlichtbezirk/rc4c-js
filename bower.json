@@ -1,0 +1,23 @@
+{
+  "name": "rc4c-js",
+  "version": "1.0.0",
+  "authors": [
+    "schwarzlichtbezirk <schwarzlichtbezirk@gmail.com>"
+  ],
+  "description": "RC4C cipher, it's RC4 extension with two S-boxes on key and IV, and with 3 scrambling phases.",
+  "main": "src/rc4c.js",
+  "keywords": [
+    "RC4C",
+    "RC4",
+    "cipher"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/schwarzlichtbezirk/rc4c-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
